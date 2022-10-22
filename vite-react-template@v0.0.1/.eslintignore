@@ -1,0 +1,7 @@
+/node_mudules
+/public
+/package.json
+/.eslintrc.cjs
+/tsconfig.json
+/tsconfig.node.json
+/index.html
