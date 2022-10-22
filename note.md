@@ -7,3 +7,12 @@
 > link 相当于讲当前本地模块链接到npm目录下，这个npm目录可以直接访问，所以当前包就可以直接访问了
 
 > npm doc
+
+
+## 发布
+```
+npm login --registry https://registry.npmjs.org 
+
+npm publish --registry https://registry.npmjs.org 
+```
+
